@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bme680-sensor": "^1.0.0",
+    "install": "^0.13.0"
+  }
+}
